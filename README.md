@@ -1,3 +1,3 @@
 # hello-world
-this is my first repository
 hello i like strawberries
+i do not like pickles
